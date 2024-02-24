@@ -1,0 +1,54 @@
+.side-nav {
+    margin-left: 62vh;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    gap: 20px;
+    width: 10%;
+    padding-top: 70px;
+    background-color: #8b008b;
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+  .admin-dash img {
+    position: fixed;
+    margin-left: -90vh;
+    width: 150vh;
+  }
+  
+  .side-nav a {
+    padding: 50px 20px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .side-nav a:hover {
+    background-color: rgba(177, 210, 254, 0.596);
+    color: black;
+  }
+  
+  .admin-contents {
+    margin-left: 83vh;
+    padding: 20px;
+  }
+  
+  .event-venue div {
+    display: flex;
+    gap: 2%;
+  }
+  
+  .side-nav .nav-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px; /* Adjust top margin as needed */
+    top:0%;
+  }
+  
+  .side-nav .nav-logo span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffcc00;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
