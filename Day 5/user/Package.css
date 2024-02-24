@@ -1,0 +1,21 @@
+input[type="checkbox"] {
+    width: 50px;
+    height: 20px;
+}
+
+.package-form {
+    padding: 30px 50px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    box-shadow: 1px 1px 10px rgb(70, 24, 100); /* Dark purple shadow */
+    margin: 30px 180px;
+    border-radius: 10px;
+    background-color: rgb(100, 38, 140); /* Dark purple background */
+    color: white; /* White text color */
+}
+
+.package-note {
+    font-size: 12px;
+    color: rgb(139, 102, 139); /* Plum color for note */
+}
