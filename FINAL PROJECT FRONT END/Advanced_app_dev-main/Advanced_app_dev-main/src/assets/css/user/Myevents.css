@@ -1,0 +1,11 @@
+.profile, .bookings {
+    padding: 20px;
+    box-shadow: none; /* Remove the box shadow */
+    background-color: rgba(227, 208, 251, 0.626); /* Set background color similar to the footer */
+    color: purple; /* Set text color to purple */
+  }
+  
+  .profile-contents {
+    padding: 20px;
+  }
+  

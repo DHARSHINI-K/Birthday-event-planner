@@ -1,0 +1,30 @@
+
+/* Import 'Great Vibes' font from Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap'); */
+
+/* Apply styles to the login box */
+#log-box-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.emp-box {
+  background-color: #ffffff; /* Pure white */
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: none; /* Remove box shadow */
+  font-family: 'Great Vibes', cursive; /* Apply custom font */
+  color: #6e0f7c; /* Purple color */
+}
+
+.inp {
+  width: 100%;
+}
+
+.ask {
+  text-align: center;
+}
+
+/* Additional styles for input fields, buttons, etc. */
